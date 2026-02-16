@@ -18,15 +18,12 @@
   - **Project Management System**
   - **AI-powered SaaS Platform**
 
-- 👨‍💻 All of my projects are available at  
+- 👨‍💻  My portfolio are available at  
   🌐 https://hamzahayat-portfolio.netlify.app
 
-- 📫 Reach me at  
+- 📫 Contact me at  
   ✉️ **hamzahayat8105@gmail.com**
 
----
-
-## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.topcoder.com/members/59300" target="blank">
